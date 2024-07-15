@@ -1,0 +1,219 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* .buttons{
+  display: grid;
+  grid-template-columns: 130px 130px 130px 130px;
+  grid-gap: 0.5rem;
+
+}
+.buttons-for-alculator{
+  padding: 1.2rem;
+  font-size: 2rem;
+  border: none;
+  border-radius: 13px;
+  margin: 0px 3px;
+}
+#screen{
+  font-size: 1.6rem;
+  padding: 1.2rem;
+  margin: 1.3rem;
+  width: 27rem;
+} */
+/* .Acc-container{
+  border: 3px solid red;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  
+  margin: 0.1rem;
+}
+#Multiple-Option{
+  background-color: brown;
+  color: white;
+  padding: 1rem;
+  display: fle;
+} */
+/* .question{
+  background-color: hsl(0, 0%, 60%);
+  padding: 1.4rem;
+  margin: 0px;
+}
+.paragraph1{
+  border: 2px solid red;
+  width: 45rem;
+  font-size: 2rem;
+  margin: 0px;
+  background-color: hsl(0, 0%, 60%);
+  display: none;
+} */
+
+/* .grid-container{
+  display: grid; */
+  /* grid-template-columns: 200px 100px;  */
+  /* one column of 200 px other of 100px */
+  /* grid-template-columns: 2fr 1fr;   now it flexibly position */
+  /* to repeat (how many times to repeat, each's width) */
+  /* grid-template-columns:repeat(4, 100px); */
+/* for rows */
+  /* grid-template-rows: 200px 140px; */
+  /* now the auto: for the new added rows and columnb  */
+  /* grid-auto-rows: 150px; every row will be 150px long */
+  /* grid-template-rows: 200px;  */
+  /* we have defined  */
+  /* grid-template-areas:
+   "header header"
+   "sidebar content"
+   "sidebar content";
+
+}
+.grid-item-1{
+  grid-area: header;
+}
+.grid-item-2{
+  grid-area: sidebar;
+}
+.grid-item-3{
+  grid-area: content;
+}
+.grid-item-1{
+  grid-area: header;
+}
+.grid-item-1{
+  grid-area: header;
+} */
+
+/* For Image Slider */
+ /* .ImageSlider-image{
+  width: 250px;
+  height: 150px;
+  margin: 0px ;
+  border-radius: 2rem;
+  
+ }
+ .imagecontainer{
+  position: relative;
+  margin: 0px 3rem;
+  padding: 0px;
+  width: 250px;
+  height: 150px;
+  
+ }
+ .icon{
+  position: absolute;
+  top: 50%;
+  background-color: hsl(0, 0%, 70%);
+  border-radius: 50%;
+  cursor: pointer;
+  
+ }
+ .icon1{
+  left: 2px;
+
+ }
+ .icon2{
+  right: 2px;
+ } */
+
+
+ /* For Tic Tac Toe */
+ /* .container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+ }
+ .box{
+  height: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+  padding: 0.7rem 0.7rem;
+  border-radius: 0.7rem;
+ }
+ .grid{
+  grid-template-columns: 2.5rem 2.5rem 2.5rem;
+  grid-gap: 0.5rem;
+ } */
+
+
+/* Tree View */
+/* .container{
+  background-color: aquamarine;
+  min-width: 9rem;
+  max-width: 40vh;
+
+  height: 100vh;
+}
+.label{
+  margin: 20px;
+}
+.icon{
+  cursor: pointer;
+}
+
+ */
+
+
+
+/* For The Scroll Indicator */
+/* .header{
+  width: 100%;
+  height: 2rem;
+  background-color: green;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1 ;
+}
+.scoll{
+  width: 100%;
+  height: 8px;
+  background-color: yellowgreen;
+  position: fixed;
+
+}
+.scoll-indicator{
+
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+} */
+
+
+/* GitHub Profile Finder */
+/* .image{
+  border-radius: 50%;
+  height: 7rem;
+  width:7rem;
+  margin: 1.2rem;
+}
+.container{
+  width: 80%;
+  height: 90%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.info{
+  text-align: center;
+} */
+
+
+
+/* For SCROLL--TO-PARTICULAR */
+.box{
+  width: 100%;
+  height: 36rem;
+  border: 1px solid red;
+  margin-top: 1.2rem;
+}
